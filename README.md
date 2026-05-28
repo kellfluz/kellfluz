@@ -20,7 +20,6 @@ Gosto de ler (principalmente ficção), assistir filmes, séries e animes e joga
 Meus jogos favoritos são: Final Fantasy X, Persona 5, Hollow Knight e The Legend of Zelda: Skyward Sword.
 
 ## Me siga!
-[![Get it on SERVICE|12x12](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/instagram.svg)](https://www.instagram.com/kellfluz/)
+![Static Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fkellfluz%2F)
 ![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logoSize=amg&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraquel-da-luz%2F)
-
-[InfiniteBacklog](https://infinitebacklog.net/users/kellfluz)
+![Static Badge](https://img.shields.io/badge/infinitebacklog-gray?style=for-the-badge&link=https%3A%2F%2Finfinitebacklog.net%2Fusers%2Fkellfluz)
